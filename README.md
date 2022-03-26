@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkselCan
-- 👀 I’m interested in **software development**
+- 👀 I’m interested in **mobile app development**
 - 🌱 I’m currently learning **Java** and **Kotlin**
 - 📫 How to reach me: aksel2606@gmail.com
 
