@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AkselCan
 - 👀 I’m interested in **software development**
-- 🌱 I’m currently learning **Java** and **Kotlin**
-- 📫 How to reach me: Aksel.C.Sozudogru-1@ou.edu
+- 🌱 I’m currently learning **C++** and **Data Structures**
+- 🍋 I've learned and worked with **Java** and **Kotlin**
+- 📫 How to reach me: aksel@ou.edu
 
 <!---
 AkselCan/AkselCan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
