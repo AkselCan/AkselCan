@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkselCan
 - 👀 I’m interested in **software development**
-- 🌱 I’m currently learning **C++** and **Data Structures**
-- 🍋 I've learned and worked with **Java** and **Kotlin**
+- 🌱 I’m currently learning **Computer Organization**
+- 🍋 I've learned and worked with **Java**, **Kotlin**, **C++** and **Python**
 - 📫 How to reach me: aksel@ou.edu
 
 <!---
