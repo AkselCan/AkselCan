@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkselCan
 - 👀 I’m interested in **software development**
-- 🌱 I’m currently learning **Computer Organization**
+- 🌱 I’m currently learning **Functional Programming w/ Haskell** and **Data Analytics**
 - 🍋 I've learned and worked with **Java**, **Kotlin**, **C++** and **Python**
 - 📫 How to reach me: aksel@ou.edu
 
