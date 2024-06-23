@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @AkselCan<br>- 🌱 I’m currently learning **Applied Statistics w/ R** and **Robotics Operating System (ROS)**<br>- 🔭 I'm currently working on a **Marketplace Website**, **Autonomous Vehicles**, **Chrome Extensions**, **Data Visualization**, and **.NET Core** products.<br>- ⚡ I'm the CFO of the Sooner Racing Team, a Formula SAE competition team that builds a race car every year!<br>- 📫 How to reach me: aksel@ou.edu or aksel2606@gmail.com<br>
+ 👋 Hi, I’m @AkselCan<br>- 🌱 I’m currently learning **Applied Statistics w/ R** and **Robotics Operating System (ROS)**<br>- 🔭 I'm currently working on a **Marketplace Website**, **Autonomous Vehicles**, **Chrome Extensions**, **Data Visualization**, and **.NET Core** products.<br>- ⚡ I'm the CFO of the Sooner Racing Team, a Formula SAE competition team that builds a race car every year!<br>- 📫 How to reach me: aksel@ou.edu or aksel2606@gmail.com<br>
 
 
 ## 🌐 Socials:
